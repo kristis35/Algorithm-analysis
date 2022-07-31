@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9YfAqol5a4XpXh33M5nWW+fJK3sL2QgjiNaCnLZc9P3Ri1T/vpOTfylbkZOsc2x2Ut5TczzOOoMRB0RggzQEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JustPC\\source\\repos\\algoritmai\\bandom\\bandom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JustPC\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\JustPC\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

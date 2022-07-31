@@ -1,0 +1,13 @@
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\bin\Debug\netcoreapp3.1\algoritmai.exe
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\bin\Debug\netcoreapp3.1\algoritmai.deps.json
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\bin\Debug\netcoreapp3.1\algoritmai.runtimeconfig.json
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\bin\Debug\netcoreapp3.1\algoritmai.runtimeconfig.dev.json
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\bin\Debug\netcoreapp3.1\algoritmai.dll
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\bin\Debug\netcoreapp3.1\algoritmai.pdb
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\obj\Debug\netcoreapp3.1\algoritmai.csprojAssemblyReference.cache
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\obj\Debug\netcoreapp3.1\algoritmai.AssemblyInfoInputs.cache
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\obj\Debug\netcoreapp3.1\algoritmai.AssemblyInfo.cs
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\obj\Debug\netcoreapp3.1\algoritmai.csproj.CoreCompileInputs.cache
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\obj\Debug\netcoreapp3.1\algoritmai.dll
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\obj\Debug\netcoreapp3.1\algoritmai.pdb
+C:\Users\JustPC\source\repos\algoritmai\algoritmai\obj\Debug\netcoreapp3.1\algoritmai.genruntimeconfig.cache
